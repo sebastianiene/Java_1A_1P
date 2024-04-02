@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Scoala
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Scoala\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Scoala()
+comment2.params=
+comment2.target=Scoala\ getInstance()
+comment3.params=c
+comment3.target=void\ adaugaCurs(Curs)
+comment3.text=\ \ adaugaCurs\ \u2013\ care\ adaug\u0103\ un\ nou\ curs\ \u00EEn\ oferta\ de\ cursuri\ (daca\ mai\ exista\ spatiu,\ \u00EEn\ caz\ contrar\r\nse\ va\ arunca\ o\ excep\u021Bie\ de\ tipul\ PreaMulteCursuriException\ \u2013\ definit\u0103\ de\ programator);\r\n
+comment4.params=
+comment4.target=void\ afiseazaCursuri()
+comment4.text=-\ afi\u0219eaz\u0103Cursuri\ \u2013\ afi\u0219eaz\u0103\ toat\u0103\ oferta\ de\ cursuri\ disponibile\ (cu\ toate\ detaliile\ acestora);
+comment5.params=
+comment5.target=void\ afiseazaCursuriProgramare()
+comment5.text=-\ afi\u0219eaz\u0103CursuriProgramare\ \u2013\ afi\u0219eaza\ doar\ cursurile\ de\ programare\ disponibile\ (cu\ toate\ caracteristicile\ acestora);
+comment6.params=id
+comment6.target=void\ stergeCurs(int)
+comment6.text=-\ stergeCurs\ \u2013\ sterge\ un\ curs\ identificat\ prin\ id-ul\ primit\ ca\ parametru
+numComments=7
